@@ -16,25 +16,11 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-#progress {
-    margin: 20px 0;
-    width: 100%;
-    background-color: #ddd;
-    border-radius: 8px;
-    height: 8px;
-    position: relative;
-}
 
-#progress-bar {
-    width: 0;
-    height: 100%;
-    background-color: #009705;
-    border-radius: 8px;
-    transition: width 0.5s;
-}
+
 
 .button {
-    padding: 10px 20px;
+    padding: 8px 2px;
     border: none;
     border-radius: 8px;
     color: #fff;
@@ -87,4 +73,39 @@ div p img{
     height: 80px;
     width: 150px;
 }
+.fil{
+    color: #ffffff;
+    background: #424242;
+}
+.fils{
+    border: #978d8d 4px solid;
+}
+video{
+    border: #fff solid 5px;
+    width: 550px;
+     height: 350;
+}
+.vid{
+    color: red;
+}
+
+.vid2{
+    color: #ffffff;
+    background-color: #4460ff;
+    padding: 8px;
+    border: 3px white solid;
+    border-radius: 6px ;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
 
